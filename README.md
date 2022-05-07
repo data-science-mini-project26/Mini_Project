@@ -5,3 +5,4 @@ every bid and ask orders which deemed by some practioners to be a valuable resou
 	
   We have four team members working on different aspects of this project. Each person's file is named by their name, so it'e easy to see everyone's progress so far.
   
+[Reinforcement Learning Model Code](https://github.com/data-science-mini-project26/Mini_Project/blob/main/Jia%20Tan/RL%20Model%20Complete/RL%20Model%20Trading%20Strategy.ipynb)
